@@ -1,0 +1,22 @@
+tr {
+    display: flex;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    border: 2px solid black;
+}
+#black {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+#white {
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}

@@ -1,0 +1,45 @@
+* {
+    font-family: 'Oswald', sans-serif;
+}
+
+body {
+    background-color: #feffee;
+    text-decoration: none;
+    color: #000;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a {
+    /* display: flex; */
+    /* background-color: green; */
+    margin-left: 20px;
+   text-decoration: none;
+}
+
+.paragh {
+    display: flex;
+    align-items: centers;
+}
+
+.arcane {
+    /* background-color: blue; */
+    color: aqua;
+}
+
+.menu a:active {
+    color: blue;
+}
+nav.h2 {
+    padding: 20px;
+}
+.menu a:hover {
+    color: green;
+}
+ .paragh2{
+    display: grid;
+ }

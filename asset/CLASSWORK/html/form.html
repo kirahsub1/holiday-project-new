@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=f, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>INNKEEPER'S FEEDBACK</h1>
+   <form action="/image,png" method="post"></form>
+    <label for="name">Full Name</label>
+    <input 
+    id="name" 
+    type="text"
+    placeholder="John Dee"
+    required
+    autocomplete="name"
+    />
+    <br/>
+    <label for="email">Email</label>
+    <input
+     id="email"
+    type="email"
+    placeholder="email@gmail.com"
+    required
+    autocomplete="email"
+    >
+    <br/>
+    <label for="phone">Phone Number</label>
+    <input 
+    id="phone"
+     type="tel"
+     placeholder="000...."
+     required
+     autocomplete="cc-number"
+     >
+     <br/>
+
+     <h4>Gender</h4>
+     <label for="male">male</label>
+     <input id="male" type="radio" name="gender" value="male">
+<label for="female">female</label>
+<input id="female" type="radio" name="gender" value="female">
+<label for="not-say">Rather not say</label>
+<input id="not-say" type="radio" name="gender" value="Not say">
+
+<h3>Please select your course</h3>
+<select name="course">
+    <option value="" disabled selected>select one</option>
+    <option value="data">Data Analysis</option>
+    <option value="creative">Creative desigh</option>
+    <option value="graphics">Graphics desigh</option>
+    <option value="product">Product desigh</option>
+    <option value="content">Content writing</option>
+</select>
+
+<h2>Enter Your Feedback</h2>
+<textarea id="feedback" name="feedback" rows="8" cols="80"></textarea>
+
+<h2>Choose Your Known Languages</h2>
+<input type="checkbox" name="Languages" value="html"/>HTML<br/> 
+<input type="checkbox" name="Languages" value="css"/>CSS <br/>
+<input type="checkbox" name="Languages" value="javascript"/>
+JAVASCRIPT<br/>
+<input type="checkbox" name="Languages" value="java"/>JAVA <br/>
+
+
+<button type="submit">Submit</button>
+<button type="clear">Clear</button>
+</body>
+</html

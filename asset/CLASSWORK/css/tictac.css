@@ -1,0 +1,99 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#a {
+    /* margin-bottom: 50px; */
+    /* background-color: red; */
+    /* border-bottom: 2px solid black; */
+    background-color: black;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+#b {
+    /* margin-bottom: 50px; */
+    /* background-color:blue; */
+    /* border-bottom: 2px solid black; */
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+#d {
+    /* margin-bottom: 50px; */
+    /* border-right: 2px solid black; */
+    /* border-left: 2px solid black; */
+    /* border-bottom: 2px solid black; */
+   /* background-color: yellowgreen; */
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+#c {
+    /* background-color: brown; */
+    /* border-left: 2px solid black; */
+    /* border-bottom: 2px solid black; */
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+#f {
+    /* background-color: red; */
+    /* border-right: 2px solid black; */
+    /* border-left: 2px solid black; */
+    border-bottom: 2px solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+#e {  
+     /* background-color: green; */
+     /* border-right: 2px solid black; */
+     /* border-left: 2px solid black; */
+     /* border-bottom: 2px solid black; */
+     background-color: black;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+#i {
+    /* background-color:purple; */
+    /* border-bottom: 2px solid black; */
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+#g {
+    /* margin-bottom: 50px; */
+    /* background-color:white; */
+    /* border-right: 2px solid black; */
+    /* border-bottom: 2px solid black; */
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+#h {
+    /* margin-bottom: 50px; */
+    /* background-color: red; */
+    /* border-bottom: 2px solid black; */
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}

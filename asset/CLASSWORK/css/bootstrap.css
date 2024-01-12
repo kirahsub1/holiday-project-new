@@ -1,0 +1,9 @@
+.p-3 {
+    border: 1px solid green;
+}
+@media ( max-width:650px) {
+    .col-6 {
+        width: 100%;
+    }
+}
+
